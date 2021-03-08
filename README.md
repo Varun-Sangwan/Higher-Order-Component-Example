@@ -1,3 +1,9 @@
+# Higher Order Component
+
+A function that takes a component as its first argument and returns a new component that wraps the given component, providing extra capabilities to it.
+
+in this example using a single component and providing different values to the passed components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
